@@ -1,0 +1,6 @@
+{
+  "name": "ClinicFlow HMS",
+  "description": "A professional Hospital Management System with SQLite integration, featuring Patient Management, Appointment Scheduling, and Billing, designed with a Modern Flat WinForms aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
